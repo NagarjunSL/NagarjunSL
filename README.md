@@ -1,7 +1,7 @@
 [![MasterHead]([https://www.bcu.ac.uk/computing/courses/big-data-analytics-msc-2022-23](https://bcu.imgix.net/big-data-analytics-banner-image-131934029945360761.jpg?auto=format&fm=jpg?mode=crop&width=1342&height=420))
 <h1 align="center">Hi 👋, I'm Nagarjun</h1>
 <h3 align="center">An aspiring data analyst (Power Bi | SQL | Excel | Python)</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.pinterest.com/pin/795237246687759214/](https://pro2-bar-s3-cdn-cf.myportfolio.com/93bea8ef802a988ed8ab44889dc82b83/bde5dd74-3aa8-4479-a3d8-5cd2802b920d_rw_1200.gif?h=b4e6094aa6e7e644ef5ccdd826456bfb)">
+<img align="right" alt="Coding" width="400" src="[https://pro2-bar-s3-cdn-cf.myportfolio.com/93bea8ef802a988ed8ab44889dc82b83/bde5dd74-3aa8-4479-a3d8-5cd2802b920d_rw_1200.gif?h=b4e6094aa6e7e644ef5ccdd826456bfb]">
 
 
 
